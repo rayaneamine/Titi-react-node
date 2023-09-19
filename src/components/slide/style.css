@@ -1,0 +1,25 @@
+.slick-slider img:not(.slick-arrow) {
+    height: 300px;
+    width: 100px;
+    object-fit: cover;
+}
+
+.slick-next:before, .slick-prev:before {
+    color: black;
+    height: 100px;
+    width: 100px;
+}
+
+.slick-dots {
+    display: none;
+}
+img{
+    height: 200px;
+    width: 200px;
+    justify-content: space-around;
+}
+.slider{
+    width: 45%;
+    height: 300px;
+    justify-content: center;
+}

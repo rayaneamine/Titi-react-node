@@ -1,0 +1,12 @@
+.nos-burgers{
+    justify-content: space-between;
+}
+.slider{
+    width: 70%;
+    height: 300px;
+    justify-content: center;
+    border-radius: 20px;
+}
+#nos-burgers{
+    justify-content: space-between;
+}
